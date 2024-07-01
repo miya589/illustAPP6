@@ -1,0 +1,6 @@
+﻿Pillow
+numpy
+opencv-python
+torch
+io
+streamlit
